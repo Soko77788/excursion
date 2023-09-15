@@ -27,3 +27,9 @@ color: gray;
   color: aquamarine;
 
 }
+
+.link--cta {
+font-size:21px;
+color: grey;
+text-align: right;
+}
